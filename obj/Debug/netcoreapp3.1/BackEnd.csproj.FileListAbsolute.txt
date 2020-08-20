@@ -1,0 +1,11 @@
+D:\dev\project\3D Printer\BackEnd\bin\Debug\netcoreapp3.1\BackEnd.exe
+D:\dev\project\3D Printer\BackEnd\bin\Debug\netcoreapp3.1\BackEnd.deps.json
+D:\dev\project\3D Printer\BackEnd\bin\Debug\netcoreapp3.1\BackEnd.runtimeconfig.json
+D:\dev\project\3D Printer\BackEnd\bin\Debug\netcoreapp3.1\BackEnd.runtimeconfig.dev.json
+D:\dev\project\3D Printer\BackEnd\bin\Debug\netcoreapp3.1\BackEnd.dll
+D:\dev\project\3D Printer\BackEnd\bin\Debug\netcoreapp3.1\BackEnd.pdb
+D:\dev\project\3D Printer\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.csprojAssemblyReference.cache
+D:\dev\project\3D Printer\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.AssemblyInfoInputs.cache
+D:\dev\project\3D Printer\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.AssemblyInfo.cs
+D:\dev\project\3D Printer\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.dll
+D:\dev\project\3D Printer\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.pdb
